@@ -90,7 +90,15 @@ function finishQuiz() {
 }
 
 function resolveWinner() {
-  const entries = Object.entries(state.scores);
+  const exposure = data.balance?.scoreExposure || {};
+  const balancedScores = Object.fromEntries(
+    Object.entries(state.scores).map(([code, score]) => {
+      const divisor = Math.sqrt(Math.max(exposure[code] || 1, 1));
+      return [code, score / divisor];
+    })
+  );
+
+  const entries = Object.entries(balancedScores);
   const highScore = Math.max(...entries.map(([, score]) => score));
   let candidates = entries.filter(([, score]) => score === highScore).map(([code]) => code);
 
@@ -102,7 +110,7 @@ function resolveWinner() {
 
     state.answers.slice(-10).forEach((answer) => {
       answer.scores.forEach((code) => {
-        if (code in lateScores) lateScores[code] += 1;
+        if (code in lateScores) lateScores[code] += 1 / Math.sqrt(Math.max(exposure[code] || 1, 1));
       });
     });
 
