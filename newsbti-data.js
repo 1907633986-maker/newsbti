@@ -503,7 +503,8 @@ window.NEWSBTI_DATA = {
             "TQ",
             "WKS",
             "康神",
-            "罗处"
+            "罗处",
+            "WKS"
           ]
         }
       ]
@@ -567,6 +568,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "LJC",
             "CYX",
+            "康神",
+            "CYX",
             "康神"
           ]
         },
@@ -583,7 +586,8 @@ window.NEWSBTI_DATA = {
           "text": "搬东西做后勤，但成片可能被我拍成受害者合集。",
           "scores": [
             "RJX",
-            "TBY"
+            "TBY",
+            "RJX"
           ]
         }
       ]
@@ -598,7 +602,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "TQ",
             "WKS",
-            "罗处"
+            "罗处",
+            "TQ"
           ]
         },
         {
@@ -616,6 +621,7 @@ window.NEWSBTI_DATA = {
           "scores": [
             "FIVESHEEP",
             "TFOFED",
+            "康神",
             "康神"
           ]
         },
@@ -681,7 +687,8 @@ window.NEWSBTI_DATA = {
             "TFOFED",
             "CYX",
             "康神",
-            "罗处"
+            "罗处",
+            "康神"
           ]
         },
         {
@@ -707,6 +714,7 @@ window.NEWSBTI_DATA = {
           "text": "练得像不要命，身体报警我先假装没听见。",
           "scores": [
             "帆帆",
+            "TQ",
             "TQ"
           ]
         }
@@ -730,6 +738,7 @@ window.NEWSBTI_DATA = {
           "text": "复盘自己哪里菜了，越想越破防。",
           "scores": [
             "TFOFED",
+            "WKS",
             "WKS"
           ]
         },
@@ -747,7 +756,8 @@ window.NEWSBTI_DATA = {
           "text": "收拾东西搬水，默默干点没人想干的活。",
           "scores": [
             "RJX",
-            "LBF"
+            "LBF",
+            "RJX"
           ]
         }
       ]
@@ -787,7 +797,8 @@ window.NEWSBTI_DATA = {
           "text": "搬水搬香蕉这种活，哥们还真能上。",
           "scores": [
             "RJX",
-            "TBY"
+            "TBY",
+            "RJX"
           ]
         }
       ]
@@ -803,7 +814,8 @@ window.NEWSBTI_DATA = {
             "CYX",
             "WKS",
             "康神",
-            "罗处"
+            "罗处",
+            "CYX"
           ]
         },
         {
@@ -862,7 +874,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "WRZ",
             "CYX",
-            "康神"
+            "康神",
+            "WRZ"
           ]
         },
         {
@@ -1006,6 +1019,7 @@ window.NEWSBTI_DATA = {
           "text": "立刻要求重拍，形象管理不能当场去世。",
           "scores": [
             "LJC",
+            "CYX",
             "CYX"
           ]
         },
@@ -1014,7 +1028,8 @@ window.NEWSBTI_DATA = {
           "text": "沉默，因为我自己也经常拍出这种犯罪现场。",
           "scores": [
             "RJX",
-            "GERRAD"
+            "GERRAD",
+            "RJX"
           ]
         },
         {
@@ -1057,7 +1072,8 @@ window.NEWSBTI_DATA = {
             "RJX",
             "LJC",
             "善良宝贝",
-            "csy"
+            "csy",
+            "RJX"
           ]
         },
         {
@@ -1065,7 +1081,8 @@ window.NEWSBTI_DATA = {
           "text": "后勤体力活我能干，别光嘴上支持。",
           "scores": [
             "RJX",
-            "TBY"
+            "TBY",
+            "RJX"
           ]
         },
         {
@@ -1073,7 +1090,8 @@ window.NEWSBTI_DATA = {
           "text": "创意和技术问题我来想办法，先别急着否。",
           "scores": [
             "WRZ",
-            "FIVESHEEP"
+            "FIVESHEEP",
+            "WRZ"
           ]
         }
       ]
@@ -1087,7 +1105,8 @@ window.NEWSBTI_DATA = {
           "text": "能不能做成小游戏？能不能让大家都来点？",
           "scores": [
             "WRZ",
-            "FIVESHEEP"
+            "FIVESHEEP",
+            "WRZ"
           ]
         },
         {
@@ -1127,6 +1146,7 @@ window.NEWSBTI_DATA = {
           "scores": [
             "LJC",
             "ORKEN",
+            "洋哥",
             "洋哥"
           ]
         },
@@ -1266,7 +1286,9 @@ window.NEWSBTI_DATA = {
             "TFOFED",
             "csy",
             "康神",
-            "罗处"
+            "罗处",
+            "WKS",
+            "康神"
           ]
         },
         {
@@ -1274,6 +1296,7 @@ window.NEWSBTI_DATA = {
           "text": "想法很多，有时候强得离谱，有时候也离谱。",
           "scores": [
             "WRZ",
+            "CYX",
             "CYX"
           ]
         }
@@ -1298,7 +1321,8 @@ window.NEWSBTI_DATA = {
             "TQ",
             "WKS",
             "康神",
-            "罗处"
+            "罗处",
+            "TQ"
           ]
         },
         {
@@ -1359,7 +1383,8 @@ window.NEWSBTI_DATA = {
           "text": "后勤和执行，把没人想干的基础活干完。",
           "scores": [
             "RJX",
-            "XJY"
+            "XJY",
+            "RJX"
           ]
         }
       ]
@@ -1414,6 +1439,7 @@ window.NEWSBTI_DATA = {
           "scores": [
             "ORKEN",
             "TFOFED",
+            "TQ",
             "TQ"
           ]
         },
@@ -1423,6 +1449,7 @@ window.NEWSBTI_DATA = {
           "scores": [
             "WRZ",
             "CYX",
+            "康神",
             "康神"
           ]
         },
@@ -1452,6 +1479,8 @@ window.NEWSBTI_DATA = {
           "text": "形象和表达都要稳，我可以上。",
           "scores": [
             "LJC",
+            "CYX",
+            "康神",
             "CYX",
             "康神"
           ]
@@ -1502,7 +1531,9 @@ window.NEWSBTI_DATA = {
             "TQ",
             "WKS",
             "康神",
-            "罗处"
+            "罗处",
+            "TQ",
+            "康神"
           ]
         },
         {
@@ -1521,7 +1552,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "WRZ",
             "QWW",
-            "GERRAD"
+            "GERRAD",
+            "WRZ"
           ]
         }
       ]
@@ -1640,7 +1672,8 @@ window.NEWSBTI_DATA = {
           "text": "从脑洞到作品，新闻男足又多了个怪东西。",
           "scores": [
             "WRZ",
-            "FIVESHEEP"
+            "FIVESHEEP",
+            "WRZ"
           ]
         }
       ]
@@ -1665,7 +1698,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "FIVESHEEP",
             "WRZ",
-            "SCYJJ"
+            "SCYJJ",
+            "WRZ"
           ]
         },
         {
@@ -1686,7 +1720,8 @@ window.NEWSBTI_DATA = {
             "LJC",
             "RJX",
             "善良宝贝",
-            "洋哥"
+            "洋哥",
+            "RJX"
           ]
         }
       ]
@@ -1704,7 +1739,8 @@ window.NEWSBTI_DATA = {
             "FIVESHEEP",
             "WRZ",
             "RJX",
-            "罗处"
+            "罗处",
+            "RJX"
           ]
         },
         {
@@ -1720,7 +1756,8 @@ window.NEWSBTI_DATA = {
             "RJX",
             "TQ",
             "康神",
-            "罗处"
+            "罗处",
+            "RJX"
           ]
         },
         {
@@ -1864,7 +1901,8 @@ window.NEWSBTI_DATA = {
             "TFOFED",
             "TQ",
             "ORKEN",
-            "csy"
+            "csy",
+            "WKS"
           ]
         },
         {
@@ -1933,7 +1971,8 @@ window.NEWSBTI_DATA = {
             "TBY",
             "csy",
             "罗处",
-            "洋哥"
+            "洋哥",
+            "罗处"
           ]
         },
         {
@@ -1944,7 +1983,9 @@ window.NEWSBTI_DATA = {
             "WKS",
             "ORKEN",
             "QWW",
-            "康神"
+            "康神",
+            "WKS",
+            "TQ"
           ]
         },
         {
@@ -2019,7 +2060,9 @@ window.NEWSBTI_DATA = {
             "罗处",
             "FIVESHEEP",
             "WKS",
-            "QWW"
+            "QWW",
+            "WKS",
+            "罗处"
           ]
         },
         {
@@ -2029,7 +2072,9 @@ window.NEWSBTI_DATA = {
             "康神",
             "CYX",
             "TQ",
-            "WKS"
+            "WKS",
+            "WKS",
+            "康神"
           ]
         },
         {
@@ -2040,7 +2085,8 @@ window.NEWSBTI_DATA = {
             "ORKEN",
             "帆帆",
             "TFOFED",
-            "LJC"
+            "LJC",
+            "洋哥"
           ]
         },
         {
@@ -2072,7 +2118,9 @@ window.NEWSBTI_DATA = {
             "罗处",
             "FIVESHEEP",
             "TFOFED",
-            "LBF"
+            "LBF",
+            "罗处",
+            "康神"
           ]
         },
         {
@@ -2084,7 +2132,8 @@ window.NEWSBTI_DATA = {
             "帆帆",
             "TQ",
             "善良宝贝",
-            "LJC"
+            "LJC",
+            "洋哥"
           ]
         },
         {
@@ -2094,7 +2143,9 @@ window.NEWSBTI_DATA = {
             "罗处",
             "FIVESHEEP",
             "WKS",
-            "QWW"
+            "QWW",
+            "WKS",
+            "罗处"
           ]
         },
         {
@@ -2122,6 +2173,7 @@ window.NEWSBTI_DATA = {
             "LJC",
             "FIVESHEEP",
             "TFOFED",
+            "CYX",
             "CYX"
           ]
         },
@@ -2187,7 +2239,10 @@ window.NEWSBTI_DATA = {
             "WKS",
             "罗处",
             "TQ",
-            "LJC"
+            "LJC",
+            "CYX",
+            "WKS",
+            "康神"
           ]
         },
         {
@@ -2215,7 +2270,8 @@ window.NEWSBTI_DATA = {
             "ORKEN",
             "帆帆",
             "TFOFED",
-            "LJC"
+            "LJC",
+            "洋哥"
           ]
         },
         {
@@ -2237,6 +2293,7 @@ window.NEWSBTI_DATA = {
             "ORKEN",
             "GERRAD",
             "SCYJJ",
+            "洋哥",
             "洋哥"
           ]
         },
@@ -2253,5 +2310,30 @@ window.NEWSBTI_DATA = {
         }
       ]
     }
-  ]
+  ],
+  "balance": {
+    "scoreExposure": {
+      "ORKEN": 36,
+      "FIVESHEEP": 38,
+      "CYX": 27,
+      "TBY": 27,
+      "XJY": 24,
+      "GERRAD": 28,
+      "TFOFED": 31,
+      "WKS": 31,
+      "WRZ": 25,
+      "LJC": 32,
+      "RJX": 29,
+      "LBF": 26,
+      "SCYJJ": 24,
+      "TQ": 28,
+      "帆帆": 28,
+      "QWW": 32,
+      "善良宝贝": 31,
+      "csy": 27,
+      "康神": 34,
+      "罗处": 28,
+      "洋哥": 28
+    }
+  }
 };
