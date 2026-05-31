@@ -128,9 +128,30 @@ function resolveWinner() {
 
 function renderResult(code) {
   const person = data.people[code];
+  const resultImages = window.NEWSBTI_RESULT_IMAGES || {};
+  const resultImage = resultImages[code];
   const sortedScores = Object.entries(state.scores)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 5);
+
+  const resultCard = document.querySelector("#result-card");
+  resultCard.classList.toggle("has-result-image", Boolean(resultImage));
+
+  let visual = resultCard.querySelector(".result-visual");
+  if (!visual) {
+    visual = document.createElement("figure");
+    visual.className = "result-visual";
+    visual.innerHTML = '<img alt="" /><figcaption>NewsBTI Avatar</figcaption>';
+    resultCard.insertBefore(visual, resultCard.querySelector(".result-grid"));
+  }
+
+  if (resultImage) {
+    visual.querySelector("img").src = resultImage;
+    visual.querySelector("img").alt = `${person.name} 人格小人`;
+    visual.hidden = false;
+  } else {
+    visual.hidden = true;
+  }
 
   document.querySelector("#result-name").textContent = person.name;
   document.querySelector("#result-code").textContent = `${person.code} / ${person.grade}`;
