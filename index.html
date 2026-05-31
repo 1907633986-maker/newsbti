@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NewsBTI 新闻男足人格测试</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero" id="start-view">
+        <div class="pitch" aria-hidden="true">
+          <div class="pitch-line center"></div>
+          <div class="pitch-box left"></div>
+          <div class="pitch-box right"></div>
+          <div class="pitch-circle"></div>
+          <div class="player-dot dot-a"></div>
+          <div class="player-dot dot-b"></div>
+          <div class="player-dot dot-c"></div>
+          <div class="player-dot dot-d"></div>
+        </div>
+        <div class="topbar">
+          <span class="brand">NewsBTI</span>
+          <span class="match-tag">新闻男足人格测试</span>
+        </div>
+        <div class="hero-copy">
+          <p class="eyebrow">35 Questions / 16 Results</p>
+          <h1>测测你是新闻男足的谁</h1>
+          <p class="lead">从场上发病、群聊潜水、宣传整活到赛后破防，生成你的新闻男足隐藏人格档案。</p>
+          <button class="primary-btn" id="start-btn">开始测试</button>
+        </div>
+        <div class="scoreboard" aria-label="测试概览">
+          <div>
+            <strong>16</strong>
+            <span>人格</span>
+          </div>
+          <div>
+            <strong>35</strong>
+            <span>题目</span>
+          </div>
+          <div>
+            <strong>1</strong>
+            <span>结果卡</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="quiz-view hidden" id="quiz-view">
+        <header class="quiz-header">
+          <div>
+            <span class="brand">NewsBTI</span>
+            <h2 id="question-count">第 1 / 30 题</h2>
+          </div>
+          <button class="ghost-btn" id="restart-btn">重新开始</button>
+        </header>
+        <div class="progress-track">
+          <div class="progress-bar" id="progress-bar"></div>
+        </div>
+        <article class="question-panel">
+          <p class="minute" id="minute-label">第 3 分钟</p>
+          <h3 id="question-text"></h3>
+          <div class="option-grid" id="option-grid"></div>
+        </article>
+      </section>
+
+      <section class="loading-view hidden" id="loading-view">
+        <div class="loading-card">
+          <div class="loader-ball"></div>
+          <p>赛后数据统计中...</p>
+          <span>正在判断你到底是哪种队内成分</span>
+        </div>
+      </section>
+
+      <section class="result-view hidden" id="result-view">
+        <header class="result-header">
+          <span class="brand">NewsBTI</span>
+          <button class="ghost-btn" id="again-btn">再测一次</button>
+        </header>
+        <article class="result-card" id="result-card">
+          <div class="result-kicker">你的新闻男足人格是</div>
+          <div class="result-main">
+            <div>
+              <h2 id="result-name"></h2>
+              <p id="result-code"></p>
+            </div>
+            <div class="badge" id="result-position"></div>
+          </div>
+          <p class="result-summary" id="result-summary"></p>
+          <div class="keyword-row" id="keyword-row"></div>
+          <div class="result-grid">
+            <section>
+              <h3>核心人格</h3>
+              <p id="result-core"></p>
+            </section>
+            <section>
+              <h3>球队功能</h3>
+              <p id="result-function"></p>
+            </section>
+            <section>
+              <h3>高光时刻</h3>
+              <p id="result-highlight"></p>
+            </section>
+            <section>
+              <h3>笑点 / 梗</h3>
+              <p id="result-risk"></p>
+            </section>
+          </div>
+          <div class="score-strip" id="score-strip"></div>
+        </article>
+      </section>
+    </main>
+    <script src="./newsbti-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
