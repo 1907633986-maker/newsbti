@@ -463,6 +463,102 @@ window.NEWSBTI_DATA = {
       "highlight": "能从战术角度分析比赛、提出思路，是球队里少见的理论派声音。",
       "risk": "2024年华工杯在禁区内手球“打排球”送点球，成为新闻男足后防抽象名场面之一。",
       "result": "你是新闻男足的洋哥型人格。你脑子里有战术，嘴上有分析，理论一套一套；但足球这东西有时候也提醒你，战术学了，球也得多踢，身体也得跟上。"
+    },
+    "YJQ": {
+      "name": "伊靖奇",
+      "code": "YJQ",
+      "grade": "2024级",
+      "position": "教练",
+      "keywords": [
+        "冷静",
+        "理性",
+        "闷骚",
+        "冷酷",
+        "最强战力",
+        "端着",
+        "温柔狠人",
+        "上进赚钱",
+        "梅西粉丝"
+      ],
+      "core": "大蛋型教练，表面端得像冰箱，实际一开玩笑就破功。训人能把强度拉满，安慰人又能突然温柔。",
+      "outside": "训球员时该狠就狠，该骂就骂，强度能直接拉满；但队员低落时又能很温柔地安慰鼓励，是那种又能镇场又能接住情绪的人。",
+      "conflict": "冷酷教练感和闷骚好男人并存。他想赢、想变强，也努力上进爱赚钱；外表端得住，内心其实很有人情味，也很爱女朋友。",
+      "function": "战术冷静剂、强度教练、最强战力兜底者、队友情绪二次修复师。",
+      "highlight": "他能把球员骂醒，也能把低落的人接住。冷酷和温柔在他身上不是冲突，是教练技能树。",
+      "risk": "平时很注意形象，但“奇恺两宝贝”一点赞评论，冷酷人设当场被亲情助攻拆穿。本人梅西粉丝，家里还有罗学势力。",
+      "result": "你是新闻男足的大蛋型人格。你看起来理性、冷酷、很能端住，实际熟了以后闷骚得很；该狠的时候能骂醒队友，该温柔的时候也能把人接住。"
+    },
+    "XYB": {
+      "name": "夏绎博",
+      "code": "XYB",
+      "grade": "待补充",
+      "position": "边后卫",
+      "keywords": [
+        "老骥伏枥",
+        "能说会道",
+        "中兴之臣",
+        "临危受命",
+        "老队长气质",
+        "作息自由",
+        "游戏宿舍派",
+        "身体管理拉扯",
+        "酒桌文化大师"
+      ],
+      "core": "夏队型边后卫，老队长余热还在，嘴上功夫和场面能力都很稳。困难时期能出来扛旗，聚餐时也能出来控场。",
+      "outside": "能说会道，表达能力强，场上场下都有一种“我来讲两句”的老队长气质。聚餐时尤其进入主场，酒桌文化一套接一套，气氛和流程都能安排明白。",
+      "conflict": "担当和生活节奏自由并存。需要他的时候他能站出来，但日常也容易被宿舍、游戏、非人类作息和身体状态牵制，训练比赛出勤偶尔进入玄学模式。",
+      "function": "困难时期扛旗者、边路经验包、队内发言代表、聚餐气氛流程官。",
+      "highlight": "球队困难阶段的中兴之臣，有一种老骥伏枥、还能再为新闻男足跑两步的气质。",
+      "risk": "作息自由、宿舍游戏、身体管理拉扯，导致“夏队又拉伤了”逐渐成为队内熟悉播报。",
+      "result": "你是新闻男足的夏队型人格。你有老队长的担当，也有能说会道的江湖气；困难时能站出来，聚餐时能把场面撑起来，就是身体管理和作息最好别再继续自由飞翔了。"
+    },
+    "ZMY": {
+      "name": "张明阳",
+      "code": "ZMY",
+      "grade": "2025级研究生",
+      "position": "中后卫",
+      "keywords": [
+        "稳健",
+        "沉稳",
+        "闷骚",
+        "线下内敛",
+        "线上活跃",
+        "抽象搞笑",
+        "后防安全感",
+        "研究生气质"
+      ],
+      "core": "研究生型中卫，线下沉稳安静，场上稳得像后防静音保险。和帆帆搭起来，安全感直接拉满。",
+      "outside": "平时看起来内向、安静、存在感不张扬，和向家剡有一点相似；但他不是完全透明，而是把很多节目效果藏到了线上。",
+      "conflict": "线下沉稳和线上抽象并存。现实里像安静可靠的研究生中卫，背地里又很会发抖音搞笑视频，属于熟了之后才发现很闷骚、很抽象的人。",
+      "function": "后防稳定器、研究生安全感、低调防守搭档、线上抽象内容提供者。",
+      "highlight": "他和杨云帆构成球队最稳定的一环之一，属于前面可以稍微乱，后面还有人兜底的安心配置。",
+      "risk": "线下话不多，线上却很会发搞笑视频。小红书找游泳搭子、被吾尔肯强吻这些梗，让研究生滤镜突然变得很有节目效果。",
+      "result": "你是新闻男足的研究生型人格。你线下安静沉稳，场上稳健可靠，像后防线的静音保险；但熟了之后会发现，你线上其实很会整活，抽象视频和闷骚属性都藏得挺深。"
+    },
+    "小辉": {
+      "name": "冉小辉",
+      "code": "小辉",
+      "grade": "2022级",
+      "position": "门将",
+      "keywords": [
+        "任劳任怨",
+        "老实厚道",
+        "闷骚低调",
+        "开得起玩笑",
+        "讲义气",
+        "成熟平易近人",
+        "乐于助人",
+        "默默付出",
+        "训练积极",
+        "好男人"
+      ],
+      "core": "厚道义气型门将，成熟、低调、任劳任怨。平时不抢镜，但训练和帮忙都很到位。",
+      "outside": "人品公认好，平易近人，也开得起玩笑。平时不抢镜，但会默默帮忙、默默训练、默默把自己该做的事情做到位。",
+      "conflict": "低调老实和闷骚幽默并存。他看起来很安静很好说话，熟了之后会发现其实挺有梗，也很能接住队友的玩笑。",
+      "function": "门线老好人、训练稳定器、球队义气担当、幕后付出型队友。",
+      "highlight": "人品公认好，开得起玩笑，也愿意默默付出，是队里很让人放心的好男人类型。",
+      "risk": "每次热身动作想拍自己脚，结果总是拍不明白，认真得很好笑，属于镜头和脚还在磨合。",
+      "result": "你是新闻男足的小辉型人格。你成熟厚道、讲义气、训练到位，平时不抢风头但一直默默付出；你不是最吵的那个人，却是大家都愿意信任的好队友。"
     }
   },
   "questions": [
@@ -475,7 +571,9 @@ window.NEWSBTI_DATA = {
           "text": "直接开麦把大家骂醒，语气重不重不重要，先别装死。",
           "scores": [
             "ORKEN",
-            "TFOFED"
+            "TFOFED",
+            "YJQ",
+            "YJQ"
           ]
         },
         {
@@ -484,7 +582,9 @@ window.NEWSBTI_DATA = {
           "scores": [
             "XJY",
             "LJC",
-            "善良宝贝"
+            "善良宝贝",
+            "ZMY",
+            "小辉"
           ]
         },
         {
@@ -518,7 +618,8 @@ window.NEWSBTI_DATA = {
           "text": "血压瞬间上来，先喷两句，但喷完还是要帮他擦屁股。",
           "scores": [
             "ORKEN",
-            "TFOFED"
+            "TFOFED",
+            "YJQ"
           ]
         },
         {
@@ -529,7 +630,8 @@ window.NEWSBTI_DATA = {
             "QWW",
             "善良宝贝",
             "csy",
-            "LBF"
+            "LBF",
+            "小辉"
           ]
         },
         {
@@ -537,7 +639,9 @@ window.NEWSBTI_DATA = {
           "text": "不说废话，自己多跑一步把坑填上。",
           "scores": [
             "帆帆",
-            "XJY"
+            "XJY",
+            "ZMY",
+            "ZMY"
           ]
         },
         {
@@ -612,7 +716,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "ORKEN",
             "LJC",
-            "洋哥"
+            "洋哥",
+            "ZMY"
           ]
         },
         {
@@ -631,7 +736,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "TBY",
             "QWW",
-            "善良宝贝"
+            "善良宝贝",
+            "小辉"
           ]
         }
       ]
@@ -662,7 +768,10 @@ window.NEWSBTI_DATA = {
           "key": "C",
           "text": "继续潜水，冷场也是群聊生态的一部分。",
           "scores": [
-            "SCYJJ"
+            "SCYJJ",
+            "XYB",
+            "ZMY",
+            "ZMY"
           ]
         },
         {
@@ -696,7 +805,8 @@ window.NEWSBTI_DATA = {
           "text": "立flag时很热血，三天后开始战略性消失。",
           "scores": [
             "LBF",
-            "LBF"
+            "XYB",
+            "XYB"
           ]
         },
         {
@@ -706,7 +816,10 @@ window.NEWSBTI_DATA = {
             "XJY",
             "LJC",
             "善良宝贝",
-            "csy"
+            "csy",
+            "ZMY",
+            "小辉",
+            "小辉"
           ]
         },
         {
@@ -757,6 +870,7 @@ window.NEWSBTI_DATA = {
           "scores": [
             "RJX",
             "LBF",
+            "小辉",
             "RJX"
           ]
         }
@@ -773,7 +887,9 @@ window.NEWSBTI_DATA = {
             "XJY",
             "善良宝贝",
             "csy",
-            "LBF"
+            "LBF",
+            "小辉",
+            "小辉"
           ]
         },
         {
@@ -824,7 +940,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "LJC",
             "ORKEN",
-            "洋哥"
+            "洋哥",
+            "XYB"
           ]
         },
         {
@@ -832,7 +949,8 @@ window.NEWSBTI_DATA = {
           "text": "不解释太多，后面用行动慢慢打脸。",
           "scores": [
             "XJY",
-            "SCYJJ"
+            "SCYJJ",
+            "ZMY"
           ]
         },
         {
@@ -939,7 +1057,8 @@ window.NEWSBTI_DATA = {
           "text": "关键时刻得有人站出来压场，我就是那个人。",
           "scores": [
             "ORKEN",
-            "帆帆"
+            "帆帆",
+            "XYB"
           ]
         },
         {
@@ -965,7 +1084,10 @@ window.NEWSBTI_DATA = {
           "text": "稳定零件，不抢镜，但少了真不行。",
           "scores": [
             "XJY",
-            "善良宝贝"
+            "善良宝贝",
+            "ZMY",
+            "小辉",
+            "ZMY"
           ]
         }
       ]
@@ -997,7 +1119,8 @@ window.NEWSBTI_DATA = {
             "LJC",
             "ORKEN",
             "善良宝贝",
-            "洋哥"
+            "洋哥",
+            "ZMY"
           ]
         },
         {
@@ -1005,7 +1128,8 @@ window.NEWSBTI_DATA = {
           "text": "我这脆皮属性，还是别硬装铁人了。",
           "scores": [
             "WRZ",
-            "SCYJJ"
+            "SCYJJ",
+            "XYB"
           ]
         }
       ]
@@ -1040,7 +1164,8 @@ window.NEWSBTI_DATA = {
             "QWW",
             "善良宝贝",
             "csy",
-            "LBF"
+            "LBF",
+            "小辉"
           ]
         },
         {
@@ -1062,7 +1187,9 @@ window.NEWSBTI_DATA = {
           "text": "大事来了我能扛，别慌。",
           "scores": [
             "ORKEN",
-            "帆帆"
+            "帆帆",
+            "XYB",
+            "ZMY"
           ]
         },
         {
@@ -1073,6 +1200,7 @@ window.NEWSBTI_DATA = {
             "LJC",
             "善良宝贝",
             "csy",
+            "小辉",
             "RJX"
           ]
         },
@@ -1131,7 +1259,8 @@ window.NEWSBTI_DATA = {
           "text": "挺好，但我先睡一觉，醒了再说。",
           "scores": [
             "LBF",
-            "LBF"
+            "XYB",
+            "XYB"
           ]
         }
       ]
@@ -1147,7 +1276,9 @@ window.NEWSBTI_DATA = {
             "LJC",
             "ORKEN",
             "洋哥",
-            "洋哥"
+            "XYB",
+            "洋哥",
+            "XYB"
           ]
         },
         {
@@ -1213,7 +1344,8 @@ window.NEWSBTI_DATA = {
           "scores": [
             "TBY",
             "GERRAD",
-            "善良宝贝"
+            "善良宝贝",
+            "XYB"
           ]
         }
       ]
@@ -1234,7 +1366,8 @@ window.NEWSBTI_DATA = {
           "text": "打游戏、躺着、低电量循环播放。",
           "scores": [
             "LBF",
-            "LBF"
+            "XYB",
+            "XYB"
           ]
         },
         {
@@ -1275,7 +1408,10 @@ window.NEWSBTI_DATA = {
           "text": "靠谱成熟，事情交给你不太会炸。",
           "scores": [
             "LJC",
-            "XJY"
+            "XJY",
+            "ZMY",
+            "小辉",
+            "小辉"
           ]
         },
         {
@@ -1311,7 +1447,9 @@ window.NEWSBTI_DATA = {
           "text": "队伍被压着打，必须有人站出来。",
           "scores": [
             "ORKEN",
-            "帆帆"
+            "帆帆",
+            "XYB",
+            "ZMY"
           ]
         },
         {
@@ -1322,6 +1460,7 @@ window.NEWSBTI_DATA = {
             "WKS",
             "康神",
             "罗处",
+            "XYB",
             "TQ"
           ]
         },
@@ -1354,7 +1493,9 @@ window.NEWSBTI_DATA = {
           "text": "防守安全感，让大家别一被打就慌。",
           "scores": [
             "帆帆",
-            "ORKEN"
+            "ORKEN",
+            "ZMY",
+            "ZMY"
           ]
         },
         {
@@ -1384,6 +1525,7 @@ window.NEWSBTI_DATA = {
           "scores": [
             "RJX",
             "XJY",
+            "小辉",
             "RJX"
           ]
         }
@@ -1401,7 +1543,8 @@ window.NEWSBTI_DATA = {
             "QWW",
             "善良宝贝",
             "csy",
-            "LBF"
+            "LBF",
+            "小辉"
           ]
         },
         {
@@ -1424,7 +1567,8 @@ window.NEWSBTI_DATA = {
           "key": "D",
           "text": "表面没反应，心里已经默默记账。",
           "scores": [
-            "SCYJJ"
+            "SCYJJ",
+            "XYB"
           ]
         }
       ]
@@ -1457,7 +1601,8 @@ window.NEWSBTI_DATA = {
           "key": "C",
           "text": "太透明太佛系，做了事也像没做。",
           "scores": [
-            "SCYJJ"
+            "SCYJJ",
+            "ZMY"
           ]
         },
         {
@@ -1465,7 +1610,8 @@ window.NEWSBTI_DATA = {
           "text": "开始时热血沸腾，过几天查无此人。",
           "scores": [
             "LBF",
-            "LBF"
+            "XYB",
+            "XYB"
           ]
         }
       ]
@@ -1507,7 +1653,9 @@ window.NEWSBTI_DATA = {
           "text": "我不当门面，我在后面把活干好。",
           "scores": [
             "XJY",
-            "SCYJJ"
+            "SCYJJ",
+            "ZMY",
+            "小辉"
           ]
         }
       ]
@@ -1543,7 +1691,10 @@ window.NEWSBTI_DATA = {
             "XJY",
             "LJC",
             "善良宝贝",
-            "csy"
+            "csy",
+            "ZMY",
+            "小辉",
+            "ZMY"
           ]
         },
         {
@@ -1567,7 +1718,8 @@ window.NEWSBTI_DATA = {
           "text": "继续扛，先把该做的做完。",
           "scores": [
             "帆帆",
-            "ORKEN"
+            "ORKEN",
+            "小辉"
           ]
         },
         {
@@ -1585,7 +1737,8 @@ window.NEWSBTI_DATA = {
           "text": "默默补位，能少说一句就少说一句。",
           "scores": [
             "TBY",
-            "SCYJJ"
+            "SCYJJ",
+            "ZMY"
           ]
         },
         {
@@ -1593,7 +1746,7 @@ window.NEWSBTI_DATA = {
           "text": "直接进入低电量，感觉灵魂已下线。",
           "scores": [
             "LBF",
-            "LBF"
+            "XYB"
           ]
         }
       ]
@@ -1625,7 +1778,8 @@ window.NEWSBTI_DATA = {
             "LJC",
             "RJX",
             "善良宝贝",
-            "csy"
+            "csy",
+            "小辉"
           ]
         },
         {
@@ -1664,7 +1818,11 @@ window.NEWSBTI_DATA = {
           "text": "低调的人，也在安静地撑起球队。",
           "scores": [
             "XJY",
-            "SCYJJ"
+            "SCYJJ",
+            "ZMY",
+            "小辉",
+            "ZMY",
+            "小辉"
           ]
         },
         {
@@ -1689,7 +1847,9 @@ window.NEWSBTI_DATA = {
             "ORKEN",
             "帆帆",
             "TQ",
-            "罗处"
+            "罗处",
+            "ZMY",
+            "ZMY"
           ]
         },
         {
@@ -1721,7 +1881,9 @@ window.NEWSBTI_DATA = {
             "RJX",
             "善良宝贝",
             "洋哥",
-            "RJX"
+            "小辉",
+            "RJX",
+            "小辉"
           ]
         }
       ]
@@ -1767,7 +1929,9 @@ window.NEWSBTI_DATA = {
             "LBF",
             "帆帆",
             "TFOFED",
-            "GERRAD"
+            "GERRAD",
+            "XYB",
+            "XYB"
           ]
         },
         {
@@ -1778,7 +1942,8 @@ window.NEWSBTI_DATA = {
             "FIVESHEEP",
             "WRZ",
             "TFOFED",
-            "洋哥"
+            "洋哥",
+            "YJQ"
           ]
         },
         {
@@ -1790,7 +1955,9 @@ window.NEWSBTI_DATA = {
             "TFOFED",
             "GERRAD",
             "康神",
-            "罗处"
+            "罗处",
+            "ZMY",
+            "ZMY"
           ]
         }
       ]
@@ -1822,7 +1989,9 @@ window.NEWSBTI_DATA = {
             "TBY",
             "善良宝贝",
             "csy",
-            "洋哥"
+            "洋哥",
+            "ZMY",
+            "小辉"
           ]
         },
         {
@@ -1840,7 +2009,8 @@ window.NEWSBTI_DATA = {
           "text": "觉得很无聊",
           "scores": [
             "ORKEN",
-            "XJY"
+            "XJY",
+            "XYB"
           ]
         }
       ]
@@ -1860,7 +2030,9 @@ window.NEWSBTI_DATA = {
             "CYX",
             "善良宝贝",
             "csy",
-            "康神"
+            "康神",
+            "YJQ",
+            "小辉"
           ]
         },
         {
@@ -1884,7 +2056,7 @@ window.NEWSBTI_DATA = {
           "text": "坚持两天不想去了",
           "scores": [
             "LBF",
-            "LBF"
+            "XYB"
           ]
         }
       ]
@@ -1916,7 +2088,10 @@ window.NEWSBTI_DATA = {
             "XJY",
             "善良宝贝",
             "罗处",
-            "洋哥"
+            "洋哥",
+            "YJQ",
+            "ZMY",
+            "YJQ"
           ]
         },
         {
@@ -1928,7 +2103,8 @@ window.NEWSBTI_DATA = {
             "帆帆",
             "QWW",
             "CYX",
-            "洋哥"
+            "洋哥",
+            "XYB"
           ]
         },
         {
@@ -1957,7 +2133,8 @@ window.NEWSBTI_DATA = {
             "GERRAD",
             "LBF",
             "WRZ",
-            "善良宝贝"
+            "善良宝贝",
+            "小辉"
           ]
         },
         {
@@ -1995,7 +2172,10 @@ window.NEWSBTI_DATA = {
             "FIVESHEEP",
             "TFOFED",
             "ORKEN",
-            "QWW"
+            "QWW",
+            "YJQ",
+            "XYB",
+            "YJQ"
           ]
         }
       ]
@@ -2014,7 +2194,9 @@ window.NEWSBTI_DATA = {
             "FIVESHEEP",
             "WKS",
             "TBY",
-            "QWW"
+            "QWW",
+            "YJQ",
+            "YJQ"
           ]
         },
         {
@@ -2024,7 +2206,9 @@ window.NEWSBTI_DATA = {
             "善良宝贝",
             "ORKEN",
             "TFOFED",
-            "GERRAD"
+            "GERRAD",
+            "YJQ",
+            "YJQ"
           ]
         },
         {
@@ -2086,6 +2270,7 @@ window.NEWSBTI_DATA = {
             "帆帆",
             "TFOFED",
             "LJC",
+            "YJQ",
             "洋哥"
           ]
         },
@@ -2253,7 +2438,9 @@ window.NEWSBTI_DATA = {
             "LJC",
             "ORKEN",
             "帆帆",
-            "洋哥"
+            "洋哥",
+            "YJQ",
+            "YJQ"
           ]
         }
       ]
@@ -2271,7 +2458,9 @@ window.NEWSBTI_DATA = {
             "帆帆",
             "TFOFED",
             "LJC",
-            "洋哥"
+            "YJQ",
+            "洋哥",
+            "YJQ"
           ]
         },
         {
@@ -2282,7 +2471,9 @@ window.NEWSBTI_DATA = {
             "LJC",
             "TFOFED",
             "WKS",
-            "TQ"
+            "TQ",
+            "YJQ",
+            "YJQ"
           ]
         },
         {
@@ -2309,31 +2500,142 @@ window.NEWSBTI_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": 42,
+      "text": "如果明天有比赛，但是你女朋友要你去陪她，你会怎么选？",
+      "options": [
+        {
+          "key": "A",
+          "text": "先陪女朋友重要，我先走一步了",
+          "scores": [
+            "TFOFED",
+            "LBF",
+            "WRZ",
+            "YJQ",
+            "YJQ"
+          ]
+        },
+        {
+          "key": "B",
+          "text": "我会给女朋友委婉说明",
+          "scores": [
+            "ORKEN",
+            "小辉",
+            "康神",
+            "LJC"
+          ]
+        },
+        {
+          "key": "C",
+          "text": "谁都不能阻止我打这场比赛，我可以让她来看我比赛",
+          "scores": [
+            "ORKEN",
+            "小辉",
+            "康神",
+            "LJC"
+          ]
+        },
+        {
+          "key": "D",
+          "text": "我没有女朋友，这道题不成立",
+          "scores": [
+            "FIVESHEEP",
+            "CYX",
+            "TBY",
+            "XJY",
+            "GERRAD",
+            "WKS",
+            "RJX",
+            "SCYJJ",
+            "TQ",
+            "帆帆",
+            "QWW",
+            "善良宝贝",
+            "csy",
+            "罗处",
+            "洋哥",
+            "XYB",
+            "ZMY",
+            "CYX"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "发现对方有超级黑人外援，你会怎么办？",
+      "options": [
+        {
+          "key": "A",
+          "text": "干就完了，丝毫不虚",
+          "scores": [
+            "ORKEN",
+            "帆帆",
+            "罗处",
+            "FIVESHEEP",
+            "WKS",
+            "TQ",
+            "YJQ",
+            "善良宝贝",
+            "QWW",
+            "CYX"
+          ]
+        },
+        {
+          "key": "B",
+          "text": "哈人，但是得硬着头皮上",
+          "scores": [
+            "XJY",
+            "TFOFED",
+            "洋哥",
+            "康神",
+            "LJC"
+          ]
+        },
+        {
+          "key": "C",
+          "text": "完蛋了",
+          "scores": [
+            "TBY",
+            "小辉",
+            "ZMY",
+            "csy",
+            "GERRAD",
+            "LBF",
+            "SCYJJ"
+          ]
+        }
+      ]
     }
   ],
   "balance": {
     "scoreExposure": {
-      "ORKEN": 36,
-      "FIVESHEEP": 38,
-      "CYX": 27,
-      "TBY": 27,
-      "XJY": 24,
-      "GERRAD": 28,
-      "TFOFED": 31,
-      "WKS": 31,
-      "WRZ": 25,
-      "LJC": 32,
-      "RJX": 29,
-      "LBF": 26,
-      "SCYJJ": 24,
-      "TQ": 28,
-      "帆帆": 28,
-      "QWW": 32,
-      "善良宝贝": 31,
-      "csy": 27,
-      "康神": 34,
-      "罗处": 28,
-      "洋哥": 28
+      "ORKEN": 39,
+      "FIVESHEEP": 40,
+      "CYX": 30,
+      "TBY": 29,
+      "XJY": 26,
+      "GERRAD": 30,
+      "TFOFED": 33,
+      "WKS": 33,
+      "WRZ": 26,
+      "LJC": 35,
+      "RJX": 30,
+      "LBF": 22,
+      "SCYJJ": 26,
+      "TQ": 30,
+      "帆帆": 30,
+      "QWW": 34,
+      "善良宝贝": 33,
+      "csy": 29,
+      "康神": 37,
+      "罗处": 30,
+      "洋哥": 30,
+      "YJQ": 23,
+      "XYB": 27,
+      "ZMY": 31,
+      "小辉": 29
     }
   }
 };
